@@ -10,7 +10,9 @@
 *
 * Circuit:
 * -------
-*   > Connect an LED, with 100 Ohm resistor, from D7 to ground.
+*   > Pin D5 to PWM
+*   > Pin D6 to DIR
+*   > Pin D7 to an LED, with 100 Ohm resistor, to ground.
 *   > Pin A0 to one leg of the 22nf capacitor
 *   > Pin A1
 *     - to the other leg of the capacitor
